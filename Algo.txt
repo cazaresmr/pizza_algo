@@ -4,3 +4,4 @@
 4. Place order
 5. Wait
 6. Enjoy
+7. Clean up
